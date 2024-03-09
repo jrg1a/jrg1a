@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jørgen, and im a Cyber Engineering Student with a bachelor degree in Computer Science</p>
+<p align="left">My name is Jørgen, and im a Cyber Engineering Student with a Bachelor degree in Computer Science</p>
 
 ###
 
