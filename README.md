@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm Jørgen</h2>
-<h3 align="center">Cyber Engineering Student</h3>
+<h3 align="left">Jørgen Austnes</h3>
 
 - 🔭 I’m currently working on [E-Commerce Application](https://github.com/jrg1a/EcommerceWebApp)
 
