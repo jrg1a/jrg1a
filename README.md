@@ -1,5 +1,6 @@
 <h3 align="left">Hi there! 👋 What's up?</h3>
 <h3 align="left">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+;What's+up?)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+;What's+up?)](https://git.io/typing-svg)
 
 
 ###
