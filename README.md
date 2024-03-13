@@ -1,8 +1,8 @@
-<h3 align="left">Hi there! 👋 What's up?</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Jørgen, and im a Cyber Engineering Student with a Bachelor degree in Computer Science</p>
+<p align="left">My name is Jørgen, and im a Cyber Engineering Student with a bachelor degree in Computer Science</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 96<br>⌨️ I like Networking, Programming, Cryptography and CTFs<br>💻 Linux, Windows, and MacOS<br>📚 I'm currently learning C#, C++ and .NET<br>🔐 OffSec</p>
+<p align="left">✨ Creating bugs since 96<br>⌨️ I like Networking, Programming, Cryptography and CTFs<br>💻 Linux, Windows, and MacOS<br>📚 I'm currently learning C#, C++ and .NET<br>🔧 Nmap, Metasploit, Gobuster, FFUF, Burp Suite, ZAP, Wireshark, John, Hydra, sqlmap <br>🔐 OffSec</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech</h2>
 
 ###
 
@@ -36,6 +36,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -49,8 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
-
-
