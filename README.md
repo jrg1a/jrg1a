@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Hallo%2C+Bonjour!;Welcome+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ###
 
-<p align="left">My name is Jørgen, and im a Cyber Engineering Student with a bachelor degree in Computer Science</p>
+<p align="left">My name is Jørgen, and im a Cyber Engineering Student with a B.Cs in Computer Science</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 96<br>⌨️ I like Cyber Security, Networks, Programming, Cryptography and CTFs<br>💻 Linux, Windows, and MacOS<br>📚 I'm currently learning more C#, DSA in Java, CCNP networking and .NET </p>
+<p align="left">✨ Creating bugs since 96<br>⌨️ I like Cyber Security, Networks, Programming, Cryptography and CTFs<br>💻 Linux, Windows, and MacOS<br>📚 I'm currently learning more C#, DSA in Java, CCNP networking and .NET <br>👨‍🎓 Western Norway University of Applied Sciences</p>
 
 ###
 
@@ -40,8 +40,6 @@
 <h2 align="left">Enviroments</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,rider,pycharm,webstorm,visualstudio,kali,windows,ubuntu,obsidian,github,apple,arch,ansible&perline=7)](https://skillicons.dev)
-
-
 
 
 
