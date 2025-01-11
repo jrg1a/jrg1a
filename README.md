@@ -19,7 +19,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrg1a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### 
+
+<h2 align="left">My interest</h2>
+
+<p align="left">I enjoy learning new things and challenging myself in technology, coding, and problem-solving. Currently, I'm actively learning cybersecurity concepts through platforms like TryHackMe.</p>
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/jrg1a.png" alt="Your Image Badge" />
+
 
 <h2 align="left">Tech i have experience in</h2>
 
