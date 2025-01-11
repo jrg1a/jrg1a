@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 96<br>⌨️ I like Cyber Security, Networking, Programming, Cryptography and CTFs<br>💻 Linux, Windows, and MacOS<br>📚 I'm currently learning more C#, DSA in Java, CCNP networking and .NET </p>
+<p align="left">✨ Creating bugs since 96<br>⌨️ I like Cyber Security, Networks, Programming, Cryptography and CTFs<br>💻 Linux, Windows, and MacOS<br>📚 I'm currently learning more C#, DSA in Java, CCNP networking and .NET </p>
 
 ###
 
@@ -21,39 +21,20 @@
 
 ###
 
-<h2 align="left">Tech</h2>
+<h2 align="left">Tech i have experience in</h2>
 
-###
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,html,css,docker,git,bash,java,python,matlab,markdown,linux,arduino&perline=7)](https://skillicons.dev)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+<h2 align="left">Tech that i am familiar with </h2>
 
-###
+[![My Skills](https://skillicons.dev/icons?i=azure,js,regex,raspberrypi,powershell,npm,vim,c,go,neovim,figma,kubernetes,latex,mongodb&perline=7)](https://skillicons.dev)
+
+<h2 align="left">Enviroments</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,rider,pycharm,webstorm,visualstudio,kali,windows,ubuntu,obsidian,github,apple,arch,ansible&perline=7)](https://skillicons.dev)
+
+
+
+
+
 
