@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 96<br>⌨️ I like Networking, Programming, Cryptography and CTFs<br>💻 Linux, Windows, and MacOS<br>📚 I'm currently learning C#, JS and .NET<br>🔧 Nmap, Metasploit, Gobuster, FFUF, Burp Suite, ZAP, Wireshark, John, Hydra, sqlmap, TShark, Yara <br>🔐 Purple</p>
+<p align="left">✨ Creating bugs since 96<br>⌨️ I like Cyber Security, Networking, Programming, Cryptography and CTFs<br>💻 Linux, Windows, and MacOS<br>📚 I'm currently learning more C#, DSA in Java, CCNP networking and .NET </p>
 
 ###
 
